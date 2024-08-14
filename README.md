@@ -21,6 +21,7 @@ website：http://sqllineage.com/trace
 3. You can follow the tool's prompts to input `trace line_number table_name;` to display the specified original data.
 
 ![My Image](img/22.png)
+
 ![My Image](img/33.png)
 
 ## Common Tracing Methods
