@@ -20,6 +20,7 @@ website：http://sqllineage.com/trace
 3. 可根据工具的提示输入 trace 行号 表名; 显示指定的原始数据。
 
 ![My Image](img/22.png)
+
 ![My Image](img/33.png)
 ## 常见的溯源方式
 
